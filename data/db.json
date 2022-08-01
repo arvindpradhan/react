@@ -1,0 +1,57 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "title": "cdcs",
+      "author": "csdcds"
+    }
+  ],
+ 
+  "profiles":[
+    {
+      "id":1,
+      "name":"A",
+      "email":"email-1"
+    },
+    {
+      "id":2,
+      "name":"B",
+      "email":"email-2"
+    },
+    {
+      "id":3,
+      "name":"C",
+      "email":"email-3"
+    },
+    {
+      "id":4,
+      "name":"D",
+      "email":"email-4"
+    },
+    {
+      "id":5,
+      "name":"E",
+      "email":"email-5"
+    },
+    {
+      "id":6,
+      "name":"F",
+      "email":"email-6"
+    },
+    {
+      "id":7,
+      "name":"G",
+      "email":"email-7"
+    },
+    {
+      "id":8,
+      "name":"H",
+      "email":"email-8"
+    }
+  ]
+}
